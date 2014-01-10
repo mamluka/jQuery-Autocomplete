@@ -1,0 +1,19 @@
+{
+  "name": "jquery-autocomplete",
+  "version": "1.2.9",
+  "homepage": "https://github.com/mamluka/jQuery-Autocomplete",
+  "authors": [
+    "david <david.mazvovsky@gmail.com>"
+  ],
+  "description": "Ajax Autocomplete for jQuery allows you to easily create autocomplete/autosuggest boxes for text input fields.",
+  "main": "dist/jquery.autocomplete.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
